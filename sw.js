@@ -1,4 +1,4 @@
-const CACHE_NAME = "ma-liste-epicerie-v172";
+const CACHE_NAME = "ma-liste-epicerie-v175";
 const APP_SHELL = [
   "./",
   "./index.html",
